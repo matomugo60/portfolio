@@ -110,7 +110,7 @@ let resumeData = {
     "testimonials":[
       {
         "description":"A committed coding student",
-        "name":"Titus Muthomi - Technical Mentor in Moringa School"
+        "name":"Titus Muthomi - Technical Mentor at Moringa School"
       },
       // {
       //   "description":"This is a sample testimonial",
