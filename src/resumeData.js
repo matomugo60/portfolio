@@ -1,63 +1,64 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "name": "Martin Mugo",
+    "role": "Junior Full-Stack Software Developer",
+    "linkedinId":"Martin Mugo",
+    "skypeid": "Martin Mugo",
+    "roleDescription": "I like experimenting in various parts of frontend and backend development and like to learn about new technologies, and participate in Community Development in my spare time.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/martin-mugo-a140b122b",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/matomugo60",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/matomugo60",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Hello, I'm Martin Mugo - a full-stack software developer with expertise in both front-end and back-end technologies. I am passionate about creating seamless and user-friendly web applications that are aesthetically pleasing and responsive. As a constant learner, I keep myself up-to-date with the latest trends and technologies to ensure that my solutions are modern and scalable. When I'm not coding, you can find me traveling, exploring new cultures and cuisines, or indulging in a good book.",
+    "address":"Nairobi, Kenya",
+    "website":"matomugo60@gmail.com",
+    // "website":"https://martin-portfolio-nine.vercel.app/",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Moringa School",
+        "specialization":"Certificate in Software Engineering",
+        "MonthOfPassing":"June",
+        "YearOfPassing":"2023",
+        "Achievements":"Full-Stack Software Development"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Kenyatta University",
+        "specialization":"Bsc. Community Resource Management",
+        "MonthOfPassing":"December",
+        "YearOfPassing":"2022",
+        "Achievements":"Community Resource Management and Extension"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"County Government of Kiambu",
+        "specialization":"Department of Gender and Social Work",
+        "MonthOfLeaving":"September",
+        "YearOfLeaving":"2022",
+        "Achievements":"Internship"
       },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
+      // {
+      //   "CompanyName":"Some Company",
+      //   "specialization":"Some specialization",
+      //   "MonthOfLeaving":"Jan",
+      //   "YearOfLeaving":"2018",
+      //   "Achievements":"Some Achievements"
+      // }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"My accumulated skills",
     "skills":[
       {
         "skillname":"HTML5"
@@ -66,40 +67,55 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
+        "skillname":"JavaScript"
+      },
+      {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"Redux"
+      },
+      {
+        "skillname":"SQL Database"
+      },
+      {
+        "skillname":"Ruby on Rails"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Farmart",
+        "description":"An e-commerce app",
+        "imgurl":"https://martin-portfolio-nine.vercel.app/assets/farmart.png",
+        "link": "https://github.com/levy-web/farmart"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Weather app",
+        "description":"A weather app that uses the user location for forcast ",
+        "imgurl":"https://martin-portfolio-nine.vercel.app/assets/Weatherapp.png",
+        "link": "https://github.com/matomugo60/weather-app-react"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"To-do server",
+        "description":"A backend for a to-do app",  
+        "imgurl":"https://martin-portfolio-nine.vercel.app/assets/todoserver.png",
+        "link": "https://github.com/matomugo60/td-api"
       },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
+      // {
+      //   "name":"project4",
+      //   "description":"mobileapp",
+      //   "imgurl":"images/portfolio/phone.jpg",
+      // }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"A committed coding student",
+        "name":"Titus Muthomi - Technical Mentor in Moringa School"
       },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
+      // {
+      //   "description":"This is a sample testimonial",
+      //   "name":"Some technical guy"
+      // }
     ]
   }
   
