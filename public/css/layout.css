@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -284,47 +284,50 @@ ul#nav li.current a { color: #F06000; }
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
-
 .bars {
-	width: 95%;
-	float: left;
-	padding: 0;
-	text-align: left;
-}
-.bars .skills {
-  	margin-top: 36px;
+   width: 95%;
+   float: left;
+   padding: 0;
+   text-align: left;
+ }
+ 
+ .bars .skills {
+   margin-top: 36px;
    list-style: none;
-}
-.bars li {
+ }
+ 
+ .bars li {
    position: relative;
-  	margin-bottom: 60px;
-  	background: #ccc;
-  	height: 42px;
-  	border-radius: 3px;
-}
-.bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+   margin-bottom: 60px;
+   background: #ccc;
+   height: 42px;
+   border-radius: 3px;
+ }
+ 
+ .bars li em {
+   font: 15px 'opensans-bold', sans-serif;
    color: #313131;
-	text-transform: uppercase;
+   text-transform: uppercase;
    letter-spacing: 2px;
-	font-weight: normal;
+   font-weight: normal;
    position: relative;
-	top: -36px;
-}
-.bar-expand {
+   top: -36px;
+ }
+ 
+ .bar-expand {
    position: absolute;
    left: 0;
    top: 0;
-
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+   background: #313131;
    display: inline-block;
-  	height: 42px;
+   height: 42px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
-}
-
+   width: 70%; /* Adjust the width to fill more than halfway */
+ }
+ 
 .photoshop {
   	width: 60%;
   	-moz-animation: photoshop 2s ease;
