@@ -8,13 +8,14 @@ export default class Portfolio extends Component {
         <div className="row">
           <div className="twelve columns collapsed">
             <h1>Check Out Some of My Works.</h1>
+            <h3>Kindly click on the link in the image to be directed to the project.</h3>
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               {resumeData.portfolio &&
                 resumeData.portfolio.map((item) => {
                   return (
                     <div className="columns portfolio-item" key={item.name}>
                       <div className="item-wrap">
-                        <a href="#" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/matomugo60" target="_blank" rel="noopener noreferrer">
                           <img
                             src={`${item.imgurl}`}
                             alt={item.name} // Added alt prop with the item name
