@@ -70,6 +70,9 @@ let resumeData = {
         "skillname":"JavaScript"
       },
       {
+        "skillname":"TypeScript"
+      },
+      {
         "skillname":"Reactjs"
       },
       {
@@ -94,6 +97,12 @@ let resumeData = {
         "description":"A weather app that uses the user location for forcast ",
         "imgurl":"https://martin-portfolio-nine.vercel.app/assets/Weatherapp.png",
         "link": "https://github.com/matomugo60/weather-app-react"
+      },
+      {
+        "name":"Quiz app",
+        "description":"A quiz app that was created using typescript ",
+        "imgurl":"https://martin-portfolio-nine.vercel.app/assets/quizapp.png",
+        "link": "https://github.com/matomugo60/quiz-app-typescript"
       },
       {
         "name":"To-do server",
