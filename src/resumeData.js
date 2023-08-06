@@ -97,7 +97,7 @@ let resumeData = {
         "name":"Farmart",
         "description":"An e-commerce app",
         "imgurl":"https://martin-portfolio-nine.vercel.app/assets/farmart.png",
-        "link": "https://github.com/levy-web/farmart"
+        "link": "https://farmart-delta.vercel.app/"
       },
       {
         "name":"Weather app",
@@ -109,7 +109,7 @@ let resumeData = {
         "name":"Quiz app",
         "description":"A quiz app that was created using typescript ",
         "imgurl":"https://martin-portfolio-nine.vercel.app/assets/quizapp.png",
-        "link": "https://github.com/matomugo60/quiz-app-typescript"
+        "link": "https://quiz-app-typescript-five.vercel.app/"
       },
       {
         "name":"To-do server",
