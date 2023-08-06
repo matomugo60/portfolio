@@ -44,6 +44,13 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Southern Star Sacco",
+        "specialization":"Sales and Marketing Department",
+        "MonthOfLeaving":"September",
+        "YearOfLeaving":"2023",
+        "Achievements":"Sales and Marketing Agent"
+      },
+      {
         "CompanyName":"County Government of Kiambu",
         "specialization":"Department of Gender and Social Work",
         "MonthOfLeaving":"September",
